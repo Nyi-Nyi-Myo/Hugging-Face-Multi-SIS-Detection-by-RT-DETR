@@ -3,7 +3,7 @@
 # 🔍 RT-DETR Surgical Instruments Detection
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/) 
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.6+-ee4c2c?logo=pytorch)](https://pytorch.org/) 
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.6-ee4c2c?logo=pytorch)](https://pytorch.org/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/)
 
 A robust real-time object detection pipeline using **RT-DETR (Real-Time Detection Transformer)** to detect 6 types of surgical instruments on a custom dataset.
